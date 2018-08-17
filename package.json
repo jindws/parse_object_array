@@ -1,11 +1,22 @@
 {
-  "name": "object_array",
+  "name": "parse_object_array",
   "version": "1.0.0",
-  "description": "",
+  "description": "> 合并数组内的对象的数字",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moiamoia/parse_object_array.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moiamoia/parse_object_array/issues"
+  },
+  "homepage": "https://github.com/moiamoia/parse_object_array#readme"
 }
