@@ -3,7 +3,7 @@
 ### 标准用法
 
 ```
-const oa = require('object_array')
+const oa = require('parse_object_array')
 
 oa([{a:1,b:2,c:3},{a:4,b:5,d:6}])//{a:5,b:7,c:3,d:6}
 

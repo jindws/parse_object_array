@@ -1,7 +1,7 @@
 {
   "name": "parse_object_array",
-  "version": "1.0.0",
-  "description": "> 合并数组内的对象的数字",
+  "version": "1.0.2",
+  "description": "合并数组内的对象的数字",
   "main": "index.js",
   "directories": {
     "test": "test"
