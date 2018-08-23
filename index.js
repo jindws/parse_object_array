@@ -6,7 +6,7 @@ function run (key,_in){
     return key.map(itm=>{
     	const e = _in.reduce((l='', r, index)=>{
             if(typeof l[itm] === 'object'||typeof r[itm] === 'object'){
-                if(index!==1&&typeof l !== typeof r[itm]){
+                if(index!==1&&typeof l !== typeof r[itm]&&l){
                     return l
                 }
 
